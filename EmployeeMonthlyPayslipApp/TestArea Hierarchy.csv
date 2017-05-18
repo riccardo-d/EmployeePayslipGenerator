@@ -1,0 +1,288 @@
+1004,Admin,Administration,Cost Centre,1,1
+1116,ACC,Aged Care Company,Company,1,2
+1120,HOSP,Hospitality,Cost Centre,2,3
+1121,HOSP-A,Hospitality - A,Sub Cost Centre,3,4
+1122,HOSP-B,Hospitality - B,Sub Cost Centre,3,5
+1123,HOSP-C,Hospitality - C,Sub Cost Centre,3,6
+1124,Maint,Maintenance,Cost Centre,2,7
+1117,RF1,Residentail Facility 1,Facility,2,8
+1118,RF1-HC,Residentail Facility 1 - High Care,Cost Centre,3,9
+1119,RF1-LC,Residentail Facility 1 - Low Care,Cost Centre,3,10
+1131,RF2,Residentail Facility 2,Facility,2,11
+1132,RF2-HC,Residentail Facility 2 - High Care,Cost Centre,3,12
+1133,RF2-LC,Residentail Facility 2 - Low Care,Cost Centre,3,13
+1011,NSW-H,ALDI - NSW-H,Cost Centre,1,14
+1014,Org,ALDI - Organisation,Organisation,1,15
+1017,AUS,ALDI - Australia,Country,2,16
+1019,AUS-NSW,ALDI - NSW,State,3,17
+1023,Bus-Mgr01,ALDI - NSW - Business Mgr 01,Regional Manager,4,18
+1024,ALDI-G,ALDI-Groceries,Company,5,19
+1037,2201,ALDI-Groceries - Brookvale,Store,6,20
+1032,2223,ALDI-Groceries - Canterbury,Store,6,21
+1030,2213,ALDI-Groceries - Chatswood,Store,6,22
+1029,V26,ALDI-Groceries - East Lakes,Store,6,23
+1100,2208-Ad,Admin,Cost Centre,7,24
+1099,2208-Ba,Bakery,Cost Centre,7,25
+1093,2208-CS,Customer Service,Cost Centre,7,26
+1092,2208-Da,Dairy,Cost Centre,7,27
+1101,2208-DF,Dawn Fill/ Night Fill,Cost Centre,7,28
+1094,2208-De,Deli,Cost Centre,7,29
+1091,2208-Fr,Freezer,Cost Centre,7,30
+1090,2208-Gr,Grocery,Cost Centre,7,31
+1096,2208-Le,Lenards,Cost Centre,7,32
+1095,2208-Me,Meat,Cost Centre,7,33
+1098,2208-Pr,Produce,Cost Centre,7,34
+1097,2208-Se,Seafood,Cost Centre,7,35
+1102,2208-TC,Trolley Collection,Cost Centre,7,36
+1025,V02,ALDI-Groceries - Edgerclif,Store,6,37
+1028,V03,ALDI-Groceries - Liechhardt,Store,6,38
+1033,2226,ALDI-Groceries - Manly Wharf,Store,6,39
+1031,V27,ALDI-Groceries - Maroubra,Store,6,40
+1027,V07,ALDI-Groceries - MarrickVille,Store,6,41
+1036,2234,ALDI-Groceries - Medowbank,Store,6,42
+1034,2229,ALDI-Groceries - North Strathfield,Store,6,43
+1026,V04,ALDI-Groceries - North Sydney,Store,6,44
+1035,2230,ALDI-Groceries - Ryde,Store,6,45
+1020,Bus-Mgr02,ALDI - NSW - Business Mgr 02,Regional Manager,4,46
+1038,ALDI-C,ALDI-Clothing,Company,5,47
+1041,3205,ALDI-Clothing - Chapel St (V80),Store,6,48
+1045,3215,ALDI-Clothing - Dandenong,Store,6,49
+1042,3206,ALDI-Clothing - David Jones, Bourke St (V62),Store,6,50
+1043,3208,ALDI-Clothing - David Jones, Chadstone (V68),Store,6,51
+1044,3211,ALDI-Clothing - David Jones, Doncaster (V69),Store,6,52
+1040,3203,ALDI-Clothing - Doncaster (V72),Store,6,53
+1048,3226,ALDI-Clothing - Fountain Gate,Store,6,54
+1050,3201,ALDI-Clothing - Knox,Store,6,55
+1046,3221,ALDI-Clothing - Malvern,Store,6,56
+1039,3202,ALDI-Clothing - Melbourne Central (V70),Store,6,57
+1049,3231,ALDI-Clothing - Northland,Store,6,58
+1047,3223,ALDI-Clothing - The Glen,Store,6,59
+1051,B3,Brand 3,Company,5,60
+1060,3220,Brand 3 -  Example,Store,6,61
+1054,3212,Brand 3 - Ballarat,Store,6,62
+1053,3209,Brand 3 - Bendigo,Store,6,63
+1056,3214,Brand 3 - Bridge Rd,Store,6,64
+1055,3213,Brand 3 - Essendon DFO (Clearance),Store,6,65
+1052,3207,Brand 3 - Greensborough,Store,6,66
+1062,3225,Brand 3 - Harbourtown,Store,6,67
+1065,3204,Brand 3 - Highpoint,Store,6,68
+1057,3217,Brand 3 - Moorabbin DFO (Clearance),Store,6,69
+1064,3233,Brand 3 - Port Melbourne,Store,6,70
+1063,3232,Brand 3 - South Warf DFO (Clearance),Store,6,71
+1059,3219,Brand 3 - Spencer St,Store,6,72
+1058,3218,Brand 3 - WaterGardens,Store,6,73
+1061,3224,Brand 3 - Werribee,Store,6,74
+1066,B4,Brand 4,Company,5,75
+1069,4205,Brand 4 -  Brisbane DFO (Clearance),Store,6,76
+1071,4210,Brand 4 - Carindale,Store,6,77
+1067,4202,Brand 4 - Chermside,Store,6,78
+1073,4201,Brand 4 - Indooroopilly,Store,6,79
+1070,4209,Brand 4 - Jindalee (Clearance),Store,6,80
+1068,4203,Brand 4 - Noosa,Store,6,81
+1072,4215,Brand 4 - Sunshine (Clearance/Pop-up),Store,6,82
+1074,B5,Brand 5,Company,5,83
+1081,2225,Brand 5 - Coffs Harbour,Store,6,84
+1077,4207,Brand 5 - Harbourtown QLD (Clearance),Store,6,85
+1078,4211,Brand 5 - Logan,Store,6,86
+1076,4206,Brand 5 - Pacific Fair,Store,6,87
+1080,4214,Brand 5 - Robina,Store,6,88
+1079,4213,Brand 5 - Surfers Paradise,Store,6,89
+1075,2236,Brand 5 - Tweed City,Store,6,90
+1022,AUS-QLD,ALDI - QLD,State,3,91
+1021,AUS-WA,ALDI - WA,State,3,92
+1018,Mal,ALDI - Malaysia,Country,2,93
+1015,Sing,ALDI - Singapore,Country,2,94
+1016,Thai,ALDI - Thailand,Country,2,95
+1082,GH,Bus Line - Express,Cost Centre,1,96
+1083,CD,Event Management CD,Cost Centre,1,97
+1086,CD-A,CD-Adelaide,State,2,98
+1089,CD-B,CD-Brisbane,State,2,99
+1088,CD-H,CD-Hobart,State,2,100
+1084,CD-M,CD-Melbourne,State,2,101
+1087,CD-P,CD-Perth,State,2,102
+1085,CD-S,CD-Sydney,State,2,103
+1001,GM,General Medical,Cost Centre,1,104
+1002,GS,General Surgical,Cost Centre,1,105
+1157,Ricky,Ricky,Country,2,106
+1003,HC,Home Care,Cost Centre,1,107
+1006,HC-E,Home Care - East,Sub Cost Centre,2,108
+1130,ClientPD,Home Care East - Client Paid,Sub Cost Centre,3,109
+1128,EACH,Home Care East - EACH,Sub Cost Centre,3,110
+1129,EACHD,Home Care East - EACHD,Sub Cost Centre,3,111
+1010,HC-M,Home Care - Management,Sub Cost Centre,2,112
+1008,HC-N,Home Care - North,Sub Cost Centre,2,113
+1009,HC-S,Home Care - South,Sub Cost Centre,2,114
+1007,HC-W,Home Care - West,Sub Cost Centre,2,115
+1103,JR D F,JR / D F,Company,1,116
+1104,JR AUS,JR Australia,Country,2,117
+1105,JR M,JR Melbourne,Store,3,118
+1106,JR S,JR Sydney,Store,3,119
+1107,JR NZ,JR New Zealand,Country,2,120
+1108,JR A,JR Auckland,Store,3,121
+1114,JR A Air,JR Auckland - Airport,Cost Centre,4,122
+1110,JR A A,JR Auckland - Arrivals,Cost Centre,4,123
+1113,JR A C,JR Auckland - Collections,Cost Centre,4,124
+1109,JR A D,JR Auckland - Departures,Cost Centre,4,125
+1112,JR A B,JR Auckland - Beauty,Cost Centre,5,126
+1111,JR A T,JR Auckland - Techno / Watch,Cost Centre,5,127
+1115,JR W,JR Wellington,Store,3,128
+1170,MTM,Metro Trains Melbourne,COMP,1,129
+1172,TRAINTOP1,Training Dataset 1,GROUP,2,130
+1173,ESSALL,ESS - All Training Dataset 1 Areas,DIV,3,131
+1174,ESSA1,ESS Area 1,DEPT,4,132
+1175,ESSA2,ESS Area 2,DEPT,4,133
+1176,ESSA3,ESS Area 3,DEPT,4,134
+1177,LVL2ALL,Level 2.0 - All Training Dataset 1 Areas,DIV,3,135
+1178,LVL2A1,Level 2.0 Area 1,DEPT,4,136
+1187,LVL2A10,Level 2.0 Area 10,DEPT,4,137
+1188,LVL2A11,Level 2.0 Area 11,DEPT,4,138
+1189,LVL2A12,Level 2.0 Area 12,DEPT,4,139
+1179,LVL2A2,Level 2.0 Area 2,DEPT,4,140
+1180,LVL2A3,Level 2.0 Area 3,DEPT,4,141
+1181,LVL2A4,Level 2.0 Area 4,DEPT,4,142
+1182,LVL2A5,Level 2.0 Area 5,DEPT,4,143
+1183,LVL2A6,Level 2.0 Area 6,DEPT,4,144
+1184,LVL2A7,Level 2.0 Area 7,DEPT,4,145
+1185,LVL2A8,Level 2.0 Area 8,DEPT,4,146
+1186,LVL2A9,Level 2.0 Area 9,DEPT,4,147
+1190,LVL2.1ALL,Level 2.1 - All Training Dataset 1 Areas,DIV,3,148
+1191,LVL2.1A1,Level 2.1 Area 1,DEPT,4,149
+1200,LVL2.1A10,Level 2.1 Area 10,DEPT,4,150
+1201,LVL2.1A11,Level 2.1 Area 11,DEPT,4,151
+1202,LVL2.1A12,Level 2.1 Area 12,DEPT,4,152
+1192,LVL2.1A2,Level 2.1 Area 2,DEPT,4,153
+1193,LVL2.1A3,Level 2.1 Area 3,DEPT,4,154
+1194,LVL2.1A4,Level 2.1 Area 4,DEPT,4,155
+1195,LVL2.1A5,Level 2.1 Area 5,DEPT,4,156
+1196,LVL2.1A6,Level 2.1 Area 6,DEPT,4,157
+1197,LVL2.1A7,Level 2.1 Area 7,DEPT,4,158
+1198,LVL2.1A8,Level 2.1 Area 8,DEPT,4,159
+1199,LVL2.1A9,Level 2.1 Area 9,DEPT,4,160
+1203,LVL3ALL,Level 3.0 - All Training Dataset 1 Areas,DIV,3,161
+1204,LVL3A1,Level 3.0 Area 1,DEPT,4,162
+1213,LVL3A10,Level 3.0 Area 10,DEPT,4,163
+1214,LVL3A11,Level 3.0 Area 11,DEPT,4,164
+1215,LVL3A12,Level 3.0 Area 12,DEPT,4,165
+1205,LVL3A2,Level 3.0 Area 2,DEPT,4,166
+1206,LVL3A3,Level 3.0 Area 3,DEPT,4,167
+1207,LVL3A4,Level 3.0 Area 4,DEPT,4,168
+1208,LVL3A5,Level 3.0 Area 5,DEPT,4,169
+1209,LVL3A6,Level 3.0 Area 6,DEPT,4,170
+1210,LVL3A7,Level 3.0 Area 7,DEPT,4,171
+1211,LVL3A8,Level 3.0 Area 8,DEPT,4,172
+1212,LVL3A9,Level 3.0 Area 9,DEPT,4,173
+1216,LVL3.1ALL,Level 3.1 - All Training Dataset 1 Areas,DIV,3,174
+1217,LVL3.1A1,Level 3.1 Area 1,DEPT,4,175
+1226,LVL3.1A10,Level 3.1 Area 10,DEPT,4,176
+1227,LVL3.1A11,Level 3.1 Area 11,DEPT,4,177
+1228,LVL3.1A12,Level 3.1 Area 12,DEPT,4,178
+1218,LVL3.1A2,Level 3.1 Area 2,DEPT,4,179
+1219,LVL3.1A3,Level 3.1 Area 3,DEPT,4,180
+1220,LVL3.1A4,Level 3.1 Area 4,DEPT,4,181
+1221,LVL3.1A5,Level 3.1 Area 5,DEPT,4,182
+1222,LVL3.1A6,Level 3.1 Area 6,DEPT,4,183
+1223,LVL3.1A7,Level 3.1 Area 7,DEPT,4,184
+1224,LVL3.1A8,Level 3.1 Area 8,DEPT,4,185
+1225,LVL3.1A9,Level 3.1 Area 9,DEPT,4,186
+1229,LVL4ALL,Level 4.0 - All Training Dataset 1 Areas,DIV,3,187
+1230,LVL4A1,Level 4.0 Area 1,DEPT,4,188
+1239,LVL4A10,Level 4.0 Area 10,DEPT,4,189
+1240,LVL4A11,Level 4.0 Area 11,DEPT,4,190
+1241,LVL4A12,Level 4.0 Area 12,DEPT,4,191
+1231,LVL4A2,Level 4.0 Area 2,DEPT,4,192
+1232,LVL4A3,Level 4.0 Area 3,DEPT,4,193
+1233,LVL4A4,Level 4.0 Area 4,DEPT,4,194
+1234,LVL4A5,Level 4.0 Area 5,DEPT,4,195
+1235,LVL4A6,Level 4.0 Area 6,DEPT,4,196
+1236,LVL4A7,Level 4.0 Area 7,DEPT,4,197
+1237,LVL4A8,Level 4.0 Area 8,DEPT,4,198
+1238,LVL4A9,Level 4.0 Area 9,DEPT,4,199
+1242,TRAINTOP2,Training Dataset 2,GROUP,2,200
+1243,ESSALL2,ESS - All Training Dataset 2 Areas,DIV,3,201
+1244,ESSA4,ESS Area 4,DEPT,4,202
+1245,ESSA5,ESS Area 5,DEPT,4,203
+1246,ESSA6,ESS Area 6,DEPT,4,204
+1247,LVL2ALL2,Level 2.0 - All Training Dataset 2 Areas,DIV,3,205
+1248,LVL2A13,Level 2.0 Area 13,DEPT,4,206
+1249,LVL2A14,Level 2.0 Area 14,DEPT,4,207
+1250,LVL2A15,Level 2.0 Area 15,DEPT,4,208
+1251,LVL2A16,Level 2.0 Area 16,DEPT,4,209
+1252,LVL2A17,Level 2.0 Area 17,DEPT,4,210
+1253,LVL2A18,Level 2.0 Area 18,DEPT,4,211
+1254,LVL2A19,Level 2.0 Area 19,DEPT,4,212
+1255,LVL2A20,Level 2.0 Area 20,DEPT,4,213
+1256,LVL2A21,Level 2.0 Area 21,DEPT,4,214
+1257,LVL2A22,Level 2.0 Area 22,DEPT,4,215
+1258,LVL2A23,Level 2.0 Area 23,DEPT,4,216
+1259,LVL2A24,Level 2.0 Area 24,DEPT,4,217
+1260,LVL2.1ALL2,Level 2.1 - All Training Dataset 2 Areas,DIV,3,218
+1261,LVL2.1A13,Level 2.1 Area 13,DEPT,4,219
+1262,LVL2.1A14,Level 2.1 Area 14,DEPT,4,220
+1263,LVL2.1A15,Level 2.1 Area 15,DEPT,4,221
+1264,LVL2.1A16,Level 2.1 Area 16,DEPT,4,222
+1265,LVL2.1A17,Level 2.1 Area 17,DEPT,4,223
+1266,LVL2.1A18,Level 2.1 Area 18,DEPT,4,224
+1267,LVL2.1A19,Level 2.1 Area 19,DEPT,4,225
+1268,LVL2.1A20,Level 2.1 Area 20,DEPT,4,226
+1269,LVL2.1A21,Level 2.1 Area 21,DEPT,4,227
+1270,LVL2.1A22,Level 2.1 Area 22,DEPT,4,228
+1271,LVL2.1A23,Level 2.1 Area 23,DEPT,4,229
+1272,LVL2.1A24,Level 2.1 Area 24,DEPT,4,230
+1273,LVL3ALL2,Level 3.0 - All Training Dataset 2 Areas,DIV,3,231
+1274,LVL3A13,Level 3.0 Area 13,DEPT,4,232
+1275,LVL3A14,Level 3.0 Area 14,DEPT,4,233
+1276,LVL3A15,Level 3.0 Area 15,DEPT,4,234
+1277,LVL3A16,Level 3.0 Area 16,DEPT,4,235
+1278,LVL3A17,Level 3.0 Area 17,DEPT,4,236
+1279,LVL3A18,Level 3.0 Area 18,DEPT,4,237
+1280,LVL3A19,Level 3.0 Area 19,DEPT,4,238
+1281,LVL3A20,Level 3.0 Area 20,DEPT,4,239
+1282,LVL3A21,Level 3.0 Area 21,DEPT,4,240
+1283,LVL3A22,Level 3.0 Area 22,DEPT,4,241
+1284,LVL3A23,Level 3.0 Area 23,DEPT,4,242
+1285,LVL3A24,Level 3.0 Area 24,DEPT,4,243
+1286,LVL3.1ALL2,Level 3.1 - All Training Dataset 2 Areas,DIV,3,244
+1287,LVL3.1A13,Level 3.1 Area 13,DEPT,4,245
+1288,LVL3.1A14,Level 3.1 Area 14,DEPT,4,246
+1289,LVL3.1A15,Level 3.1 Area 15,DEPT,4,247
+1290,LVL3.1A16,Level 3.1 Area 16,DEPT,4,248
+1291,LVL3.1A17,Level 3.1 Area 17,DEPT,4,249
+1292,LVL3.1A18,Level 3.1 Area 18,DEPT,4,250
+1293,LVL3.1A19,Level 3.1 Area 19,DEPT,4,251
+1294,LVL3.1A20,Level 3.1 Area 20,DEPT,4,252
+1295,LVL3.1A21,Level 3.1 Area 21,DEPT,4,253
+1296,LVL3.1A22,Level 3.1 Area 22,DEPT,4,254
+1297,LVL3.1A23,Level 3.1 Area 23,DEPT,4,255
+1298,LVL3.1A24,Level 3.1 Area 24,DEPT,4,256
+1299,LVL4ALL2,Level 4.0 - All Training Dataset 2 Areas,DIV,3,257
+1300,LVL4A13,Level 4.0 Area 13,DEPT,4,258
+1301,LVL4A14,Level 4.0 Area 14,DEPT,4,259
+1302,LVL4A15,Level 4.0 Area 15,DEPT,4,260
+1303,LVL4A16,Level 4.0 Area 16,DEPT,4,261
+1304,LVL4A17,Level 4.0 Area 17,DEPT,4,262
+1305,LVL4A18,Level 4.0 Area 18,DEPT,4,263
+1306,LVL4A19,Level 4.0 Area 19,DEPT,4,264
+1307,LVL4A20,Level 4.0 Area 20,DEPT,4,265
+1308,LVL4A21,Level 4.0 Area 21,DEPT,4,266
+1309,LVL4A22,Level 4.0 Area 22,DEPT,4,267
+1310,LVL4A23,Level 4.0 Area 23,DEPT,4,268
+1311,LVL4A24,Level 4.0 Area 24,DEPT,4,269
+1155,PT42a,PT42a-HMO Overtime,Organisation,1,270
+1156,PT42b,PT42b-HMO Overtime,Organisation,1,271
+1154,PT42,PT42-HMO Overtime,Organisation,1,272
+1171,Test,Test,COMP,1,273
+1134,xTST0001,xTST0001,xTST0001,1,274
+1135,xTST0002,xTST0002,xTST0002,2,275
+1137,xTST0004,xTST0004,xTST0003,3,276
+1140,xTST0007,xTST0007,xTST0004,4,277
+1141,xTST0008,xTST0008,xTST0004,4,278
+1142,xTST0009,xTST0009,xTST0004,4,279
+1138,xTST0005,xTST0005,xTST0003,3,280
+1143,xTST0010,xTST0010,xTST0004,4,281
+1144,xTST0011,xTST0011,xTST0004,4,282
+1145,xTST0012,xTST0012,xTST0004,4,283
+1136,xTST0003,xTST0003,xTST0002,2,284
+1139,xTST0006,xTST0006,xTST0003,3,285
+1146,xTST0013,xTST0013,xTST0004,4,286
+1147,xTST0014,xTST0014,xTST0004,4,287
+1148,xTST0015,xTST0015,xTST0004,4,288
